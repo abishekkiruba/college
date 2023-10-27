@@ -1,0 +1,1 @@
+portfolio ***to view a instagram profile and twitter and resume,we create using javascript onclick event
